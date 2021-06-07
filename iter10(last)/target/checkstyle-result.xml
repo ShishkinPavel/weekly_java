@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/demo/Demo.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/comparator/VertexInverseComparator.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/utils/SimpleMath.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/utils/Gauger.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Polygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Vertex2D.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/ColoredPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Labelable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/CollectionPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Snowman.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/SimplePolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/PolygonFactory.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Colored.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Triangle.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/PolygonReadable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/ArrayPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/LabeledPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Paper.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Circle.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Buildable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Circular.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/RegularOctagon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/GeneralRegularPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/RegularPolygon.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Sortable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/PolygonWritable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Square.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Measurable.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Color.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/exception/TransparentColorException.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/exception/EmptyDrawableException.java">
+</file>
+<file name="/Users/pavelshishkin/studium/1/pb162/2021-pb162-seminar-project/src/main/java/cz/muni/fi/pb162/project/exception/MissingVerticesException.java">
+</file>
+</checkstyle>
